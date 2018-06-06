@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: FusionBlueBlastWave
+  m_Shader: {fileID: 4800000, guid: a407cd3e6701e3b438d438cf80724929, type: 3}
+  m_ShaderKeywords: TC_ALIGNED TC_BILLBOARD_TAILSTRETCH TC_COLOUR_LIFETIME TC_PERSPECTIVE
+    TC_SIZE TC_SIZE_OVER_TIME TC_UV_SPRITE_ANIM
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _MainTex:
+        m_Texture: {fileID: 2800000, guid: db59dc0e341d8914686e48c150ca5f6e, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats: []
+    m_Colors:
+    - _Color: {r: 1, g: 1, b: 1, a: 1}
+    - _TintColor: {r: 0.19852942, g: 0.19852942, b: 0.19852942, a: 0.159}
